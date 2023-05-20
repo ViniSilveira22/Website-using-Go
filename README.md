@@ -1,1 +1,1 @@
-Para utlizar o projeto, execute o comando go run main.go
+Para utilizar o projeto, execute o comando "go run main.go"
